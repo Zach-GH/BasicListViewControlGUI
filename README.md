@@ -1,2 +1,4 @@
 # BasicListViewControlGUI
 Software Development Lifecycle 
+
+We were learning how to use GUI's in Java, what we had been assigned included adding images and locations to be displayed in a listModel to create an application. In addition to this, we had to add something and I had chosen to add the button that would sort the different locations based off of a price variable that I added. In order to do this I had to implement Comparable, and then reverse sort the objects after passing them into a new Array, erase the old objects from the old ListModel, and pass the objects back through into a brand new overloaded constructor that would accept objects. It was challenging for me, but I was really passionate about getting this to work as it was a requirement specified in a past assignment, and I was excited to implement this for my own learning experience, even though it had not been required.
